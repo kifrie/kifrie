@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kira Friedrichs
 - 👀 I’m interested in Data, Analytics, Cognition, Neuropsychology, Science and Lifelong Learning!
 - 🌱 I’m currently learning Python, SQL, PowerBI
-- 💞️ I’m looking for an entrance level job as a data scientist
+- 💞️ I’m looking for an entry level job as a data scientist
 - 📫 Reach me on LinkedIn: www.linkedin.com/in/kirafriedrichs 
 
 --> I am working on my GitHub page to present my portfolio so far (university assignments, project work and training projects...). Coming soon!
